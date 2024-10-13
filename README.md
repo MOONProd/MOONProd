@@ -63,16 +63,15 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/unity-353535.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/unity-ffffff.svg?style=for-the-badge&logo=unity&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/VS%20Code-2C2C32.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
 </div>
 
 <br>
@@ -91,3 +90,5 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/MOONProd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MOONProd&show_icons=true&theme=shadow_blue&count_private=true&hide_border=true" alt="MOON's github stats" /></a> | <a href="https://github.com/MOONProd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOONProd&theme=shadow_blue&layout=compact&hide_border=true" alt="MOON's github stats"/></a> |
 | ------------- | ------------- |
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dueh123)](https://solved.ac/dueh123/)
