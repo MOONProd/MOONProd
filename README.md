@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://img.shields.io/badge/VS%20Code-2F80ED.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
+<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 <br>
