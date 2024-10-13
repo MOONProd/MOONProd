@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--타이틀 부분-->
 <div align="center">
-  [![venom]](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20always%20Growing!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+  [![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20always%20Growing!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)]
 </div>
 
 <!--내용 부분-->
