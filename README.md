@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 -->
 
 
-  | <a href="https://solved.ac/dueh123/"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dueh123" /> </a> |  <a href="https://github.com/MOONProd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOONProd&theme=shadow_blue&layout=compact&hide_border=true" alt="MOON's github stats"/></a> |
+  | <a href="https://solved.ac/dueh123/"> <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dueh123" /> </a> |  <a href="https://github.com/MOONProd/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOONProd&theme=shadow_blue&layout=compact&hide_border=true" alt="MOON's github stats"/></a> |
   | ------------- | ------------- |
 
 
