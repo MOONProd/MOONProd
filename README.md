@@ -35,7 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp
 </div>
 
-<br>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
