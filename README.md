@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
+</div>
+
 <!--
 <div align="center">
   <img src="https://img.shields.io/badge/java-BA602B?style=for-the-badge&logo=java&logoColor=FAE0D4" />&nbsp
@@ -50,10 +55,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
 </div>
 
 <br>
