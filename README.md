@@ -1,5 +1,43 @@
 ## Hi there 👋 I'm Moon SoYeon. I'm studying now.
 
+### ✨ Stacks
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)
+![NextJS Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+
+<br>
+
+### 🌱 Activities
+- LG U+ Ureca FrontEnd 대면 1기 최우수 수료 (2024. 06 - 2024. 12)
+- LG CNS SW 테스팅 교육 수료 (2023. 06 - 2023. 07)
+- 중앙대학교 사회봉사단 인도네시아 문화교류 (2022. 06 - 2022. 09)
+- 한국콘텐츠진흥원 광주 Ace Fair 개발 운영진 (2022. 09 - 2022. 11)
+
+<br>
+
+### 👯 Project
+| repo | description | dev role |
+|-|-|-|
+| [Daengle 댕글](https://github.com/DDog-org/daengle-client) | 반려견을 위한 견적 매칭 플랫폼 | FrontEnd | 
+| [Dongle 동글마켓](https://github.com/Dongle-market/Dongle-FE) | 반려동물 용품 커머스 | FrontEnd |
+| [Word Bridge](https://github.com/MOONProd/word-matching-game-front) | 손안의 링크 저장 지갑 | FrontEnd | 
+
+<br>
+
+### 🌈 Education
+- [중앙대학교](https://www.cau.ac.kr/) `2019.03 ~ 2024.02`
+  - 컴퓨터예술학부
+ 
+<br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=MOONProd&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/MOONProd"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **MOONProd/MOONProd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,96 +53,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--타이틀 부분-->
-  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Always%20Growing!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
-<!--   <img src="https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white" />&nbsp -->
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white" />&nbsp
-</div>
-
-<!--
-<div align="center">
-  <img src="https://img.shields.io/badge/java-BA602B?style=for-the-badge&logo=java&logoColor=FAE0D4" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/WebGL-990000.svg?style=for-the-badge&logo=WebGL&logoColor=white" />&nbsp
-</div>
--->
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-2F80ED.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=22ABF3" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
-
-<br>
-<!--
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
--->
-
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/dueh123/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dueh123" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/MOONProd/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOONProd&theme=shadow_blue&layout=compact&hide_border=true" alt="MOON's github stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
