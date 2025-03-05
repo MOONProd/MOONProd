@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Moon SoYeon. I'm studying now.
+## Hi there 👋 I'm Moon SoYeon.
 
 ### ✨ Stacks
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
