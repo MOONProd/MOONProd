@@ -19,7 +19,7 @@
 |-|-|-|
 | ![dangle](https://github.com/user-attachments/assets/b36bcc8e-23a4-4b5f-9d95-e8f05b07c05f) [댕글(daengle)](https://github.com/DDog-org/daengle-client) | 반려견을 위한 견적 매칭 플랫폼 | FrontEnd | 
 | ![dongle](https://github.com/user-attachments/assets/750451ec-c57d-48d9-9db7-cdaf26442b14) [동글마켓(dongle)](https://github.com/Dongle-market/Dongle-FE) | 반려동물 용품 커머스 | FrontEnd |
-| ![gaegul](https://github.com/user-attachments/assets/9389757b-1043-45a8-b93b-a623e707fc44)  [Word Bridge](https://github.com/MOONProd/word-matching-game-front) | 손안의 링크 저장 지갑 | FrontEnd |
+| ![gaegul](https://github.com/user-attachments/assets/9389757b-1043-45a8-b93b-a623e707fc44)  [Word Bridge](https://github.com/MOONProd/word-matching-game-front) | 온라인 양방향 끝말잇기 게임 | FrontEnd |
 
 <br>
 
